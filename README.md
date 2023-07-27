@@ -1,6 +1,7 @@
 # Calendar-App
 
-This is a simple Android application that mimics the behaviour of the Calendar 
+This is a simple Android application that mimics the behaviour of the Calendar. You can create, store and delete task for each day. The created tasks of each day will be shown seperately in form of the list. 
+You also get the feature "Go To Today". Here you can navigate to Today from any date you are currently in.
 
 ## Features
 
@@ -22,6 +23,10 @@ And the task will be stored via the api call.
 
 #### 5. Delete Task
 We have the delete button to delete the specific task from database.
+
+#### 6. Go To Today
+You can go to today's date even though you are at any date in just asingle click.
+
 
 ## Tech Stack
 1. Kotlin
